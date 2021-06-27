@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**Arthi-chaud/Arthi-chaud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Arthur! :grinning:
 
-Here are some ideas to get you started:
+Currently studying at EPITECH, I enjoy programming, and discovering new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+So far, I've programmed in C, C++, Python, PHP (w/ Symfony Framework) and I'm looking forward to use other programming languages
+
+I'm also part of the pedagogical team of the school I study at. :books:
+I love teaching stuffs, talking about memory management and debate on ways to solve problems!
+___
+
+Here are some of the projects I've done/participated to:
+
+- [Bomberman](https://github.com/AnonymusRaccoon/Bomberman): Recreation of a Bomberman Game, using C++ and Raylib
+
+- [LinkedLists](https://github.com/Arthi-chaud/LinkedLists): A C library to manage data using linked-lists-type containers
+
+___
+
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthi-chaud)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud)](https://github.com/anuraghazra/github-readme-stats)
+
