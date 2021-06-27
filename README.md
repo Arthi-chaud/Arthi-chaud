@@ -18,6 +18,5 @@ Here are some of the projects I've done/participated to:
 
 ___
 
-[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthi-chaud)](https://github.com/anuraghazra/github-readme-stats)
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![My most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arthi-chaud&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
