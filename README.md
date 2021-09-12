@@ -16,7 +16,7 @@ Here are some of the projects I've done/participated to:
 
 - [LinkedLists](https://github.com/Arthi-chaud/LinkedLists): A C library to manage data using linked-lists-type containers
 
-- [Marvinette](https://github.com/Arthi-chaud/Marvinette): A framework for functionnal testing, using PHP
+- [Marvinette](https://github.com/Arthi-chaud/Marvinette): A framework for functional testing, using PHP
 
 ___
 
