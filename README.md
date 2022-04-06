@@ -12,18 +12,18 @@ My name's Arthur, nice to meet you!
 ### I can't code without
 
 - :computer: Linux or macOs
-- :keyboard: VSCode, JetBrain suite
+- :keyboard: VSCode, JetBrain suite, *learning vim's binding*
 
 ## Some of my projet I'd like to highlight
 
-- :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman): A C++ 20 recreation of the classic name, using [raylib](https://github.com/raysan5/raylib)
-- :o: [HAL](https://github.com/Arthi-chaud/HAL): Lisp interpreter programmed in Haskell
-- :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo): Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personnal video server
+- :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic name, using [raylib](https://github.com/raysan5/raylib)
+- :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter programmed in Haskell
+- :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo) - Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personnal video server
 
 ## Other projet not as impressive, but still cool
 
-- :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette): Functionnal test framework, build to test projects from the school I study at
-- :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek): Tool to sync your Google calendar with my school's.
+- :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Functionnal test framework, build to test projects from the school I study at
+- :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek) - Tool to sync your Google calendar with my school's.
 
 ## Favorite Ways of coding
 
