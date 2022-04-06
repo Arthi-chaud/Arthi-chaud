@@ -9,9 +9,6 @@ My name's Arthur, nice to meet you!
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
 - :cherry_blossom: Aside from coding, I spend time building my own server, watching movies and playing video games on old school consoles
-
-### I can't code without
-
 - :computer: Linux or macOs
 - :keyboard: VSCode, JetBrain suite, *learning vim's bindings*
 
