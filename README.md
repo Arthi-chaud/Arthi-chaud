@@ -21,7 +21,7 @@ My name's Arthur, nice to meet you!
 - :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter programmed in Haskell
 - :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo) - Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personnal video server
 
-## Other projets not as impressive, but still cool
+## Not as impressive but still cool projects
 
 - :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Framework for functionnal testing, built to test projects from the school I study at
 - :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek) - Tool to sync your Google calendar with my school's.
