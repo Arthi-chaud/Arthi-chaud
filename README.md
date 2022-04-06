@@ -23,7 +23,7 @@ My name's Arthur, nice to meet you!
 
 ## Other projets not as impressive, but still cool
 
-- :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Functionnal test framework, build to test projects from the school I study at
+- :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Framework for functionnal testing, built to test projects from the school I study at
 - :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek) - Tool to sync your Google calendar with my school's.
 
 ## Favorite ways of coding
