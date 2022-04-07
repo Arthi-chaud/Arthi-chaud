@@ -14,8 +14,8 @@ My name's Arthur, nice to meet you!
 
 ## Some of my projets I'd like to highlight
 
-- :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic name, using [raylib](https://github.com/raysan5/raylib)
-- :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter programmed in Haskell
+- :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic game, using [raylib](https://github.com/raysan5/raylib)
+- :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter in Haskell
 - :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo) - Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personnal video server
 
 ## Not as impressive but still cool projects
