@@ -4,7 +4,7 @@ My name's Arthur, nice to meet you!
 
 ## Let me introduce myself :star:
 
-- :books: 3rd year student in Programming and Computer Science
+- :books: 4th year student in Programming and Computer Science
 - :fr: From France (*oui, oui baguette*)
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
@@ -13,7 +13,7 @@ My name's Arthur, nice to meet you!
 - :keyboard: VSCode, JetBrain suite, *learning vim's bindings*
 
 ## Some of my projets I'd like to highlight
-
+- :cd: [Meelo](https://github.com/Arthi-chaud/Meelo) - Personnal Music Server, designed for music collectors
 - :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic game, using [raylib](https://github.com/raysan5/raylib)
 - :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter in Haskell
 - :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo) - Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personnal video server
