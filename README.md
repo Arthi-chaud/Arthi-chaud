@@ -23,12 +23,6 @@ My name's Arthur, nice to meet you!
 - :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Framework for functionnal testing, built to test projects from the school I study at
 - :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek) - Tool to sync your Google calendar with my school's.
 
-## Favorite ways of coding
-
-- Functionnal Paradigm
-- Redux
-- Object-Oriented
-
 ## Languages and tools I know how to make magic with
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30px"/>
