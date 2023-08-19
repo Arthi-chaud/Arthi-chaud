@@ -4,7 +4,7 @@ My name's Arthur, nice to meet you!
 
 ## Let me introduce myself :star:
 
-- :books: 4th year student in Programming and Computer Science
+- :books: 5th year student in Programming and Computer Science
 - :fr: From France (*oui, oui baguette*)
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
