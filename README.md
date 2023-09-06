@@ -9,20 +9,12 @@ My name's Arthur, nice to meet you!
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
 - :cherry_blossom: Aside from coding, I spend time working on my own server, watching movies and playing video games on old school consoles
-- :computer: Linux or macOs
-- :keyboard: VSCode, JetBrain suite, *learning vim's bindings*
 
 ## Some other projects I'd like to highlight
 
 - :cd: [Meelo](https://github.com/Arthi-chaud/Meelo) - Personnal Music Server, designed for music collectors
+- 🔧 [Seminal for Haskell](https://github/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
 - :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic game, using [raylib](https://github.com/raysan5/raylib)
-- :o: [HAL](https://github.com/Arthi-chaud/HAL) - Lisp interpreter in Haskell
-- :movie_camera: [Myoo](https://github.com/Arthi-chaud/Myoo) - Mobile Client of [Kyoo](https://github.com/AnonymusRaccoon/Kyoo), personal video server
-
-## Not as impressive but still cool projects
-
-- :microscope: [Marvinette](https://github.com/Arthi-chaud/Marvinette) - Framework for functionnal testing, built to test projects from the school I study at
-- :calendar: [Gladitek](https://github.com/Arthi-chaud/Gladitek) - Tool to sync your Google calendar with my school's.
 
 ## Some languages and tools I know how to make magic with
 
@@ -44,7 +36,6 @@ My name's Arthur, nice to meet you!
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
 - [ ] Complete studies
 - [ ] Master Vim
-- [ ] Work for a multimedia/streaming company
 
 ---
 
