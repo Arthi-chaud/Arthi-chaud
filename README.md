@@ -13,7 +13,7 @@ My name's Arthur, nice to meet you!
 ## Some other projects I'd like to highlight
 
 - :cd: [Meelo](https://github.com/Arthi-chaud/Meelo) - Personnal Music Server, designed for music collectors
-- 🔧 [Seminal for Haskell](https://github/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
+- 🔧 [Seminal for Haskell](https://github.com/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
 - :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic game, using [raylib](https://github.com/raysan5/raylib)
 
 ## Some languages and tools I know how to make magic with
