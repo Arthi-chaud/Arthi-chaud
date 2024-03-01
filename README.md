@@ -32,4 +32,6 @@ My name's Arthur, nice to meet you!
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
+CV/Resume available [here](https://github.com/Arthi-chaud/Curriculum-Vitae)
+
 *Keep learning...*
