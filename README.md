@@ -4,7 +4,7 @@ My name's Arthur, nice to meet you!
 
 ## Let me introduce myself :star:
 
-- :books: 5th year student in Programming and Computer Science
+- :books: EPITECH Graduate and PhD Student
 - :fr: From France (*oui, oui baguette*)
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
@@ -25,7 +25,7 @@ My name's Arthur, nice to meet you!
 - [x] Write my own dot files
 - [x] Get familiar with Functional programming
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
-- [ ] Complete studies
+- [x] Complete studies
 - [ ] Master Vim
 
 ---
