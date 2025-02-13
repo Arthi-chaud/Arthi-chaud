@@ -10,7 +10,7 @@ My name's Arthur, nice to meet you!
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
 - :cherry_blossom: Aside from coding, I spend time working on my own server, watching movies and playing video games on old school consoles
 
-## Some other projects I'd like to highlight
+## Some projects I'd like to highlight
 
 - :cd: [Meelo](https://github.com/Arthi-chaud/Meelo) - Personnal Music Server, designed for music collectors
 - 🔧 [Seminal for Haskell](https://github.com/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
@@ -33,5 +33,7 @@ My name's Arthur, nice to meet you!
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 CV/Resume available [here](https://github.com/Arthi-chaud/Curriculum-Vitae)
+
+Oh and here's [my blog](https://arthichaud.xyz)
 
 *Keep learning...*
