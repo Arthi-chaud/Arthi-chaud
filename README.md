@@ -27,6 +27,7 @@ My name's Arthur, nice to meet you!
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
 - [x] Complete studies
 - [ ] Master Vim
+- [ ] Finish PhD
 
 ---
 
