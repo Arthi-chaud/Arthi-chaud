@@ -1,40 +1,40 @@
 # Hello fellow programmers and computer wizards! :earth_africa:
 
-My name's Arthur, nice to meet you!
+Links: **[Blog](https://arthichaud.xyz) • [CV](https://github.com/Arthi-chaud/Curriculum-Vitae)**
 
-## Let me introduce myself :star:
+## I'm Arthur, nice to meet you!
 
-- :books: EPITECH Graduate and PhD Student
+- :books: EPITECH Graduate 
+- :gear: PhD Student (with the 'Programming Languages and Systems' research group, Uni of Kent, UK)
 - :fr: From France (*oui, oui baguette*)
 - :teacher: Passionate about teaching and active pedagogy
 - :headphones: Music Addict, I'm more productive with some electro, 90's sound on!
-- :cherry_blossom: Aside from coding, I spend time working on my own server, watching movies and playing video games on old school consoles
 
-## Some projects I'd like to highlight
+## Star projects
 
-- :cd: [Meelo](https://github.com/Arthi-chaud/Meelo) - Personnal Music Server, designed for music collectors
-- 🔧 [Seminal for Haskell](https://github.com/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
-- :video_game: [Bomberman](https://github.com/AnonymusRaccoon/Bomberman) - A C++ 20 recreation of the classic game, using [raylib](https://github.com/raysan5/raylib)
+- 💿 [Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server, designed for music collectors
+- 🎮 [FuNes](https://github.com/Arthi-chaud/Meelo) - NES emulator written in Haskell
+- 🔧 [Seminal](https://github.com/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
 
-## Some languages and tools I know how to make magic with
+## Skill set
 
-[![](https://skillicons.dev/icons?i=c,cpp,python,ts,haskell,react,flutter,nestjs,nextjs,markdown,latex,docker)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=ts,haskell,c,rust,golang,cpp,python)](https://skillicons.dev)
 
-## Career To-do list :white_check_mark: 
+[![](https://skillicons.dev/icons?i=react,flutter,nestjs,nextjs,mui)](https://skillicons.dev)
+
+[![](https://skillicons.dev/icons?i=docker,neovim,arch)](https://skillicons.dev)
+
+Other interests include: meta-programming, language servers, dotfile configurations, UI/UX and media metadata
+
+## :white_check_mark: Career To-do list 
 
 - [x] Write my own dot files
 - [x] Get familiar with Functional programming
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
 - [x] Complete studies
-- [ ] Master Vim
+- [x] Master Vim
 - [ ] Finish PhD
 
 ---
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthi-chaud&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
-
-CV/Resume available [here](https://github.com/Arthi-chaud/Curriculum-Vitae)
-
-Oh and here's [my blog](https://arthichaud.xyz)
-
-*Keep learning...*
