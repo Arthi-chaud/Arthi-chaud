@@ -22,7 +22,7 @@ Links: **[Blog](https://arthichaud.xyz) • [CV](https://github.com/Arthi-chaud/
 
 [![](https://skillicons.dev/icons?i=react,flutter,nestjs,nextjs,mui)](https://skillicons.dev)
 
-[![](https://skillicons.dev/icons?i=docker,neovim,arch)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=nix,neovim,arch,docker)](https://skillicons.dev)
 
 Other interests include: meta-programming, language servers, dotfile configurations, UI/UX and media metadata
 
@@ -33,6 +33,7 @@ Other interests include: meta-programming, language servers, dotfile configurati
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
 - [x] Complete studies
 - [x] Master Vim
+- [ ] Nix-ify dotfiles (WIP)
 - [ ] Finish PhD
 
 ---
