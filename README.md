@@ -33,7 +33,7 @@ Other interests include: meta-programming, language servers, dotfile configurati
 - [x] Work on a [project](https://github.com/Arthi-chaud/Meelo) that I am really proud of
 - [x] Complete studies
 - [x] Master Vim
-- [ ] Nix-ify dotfiles (WIP)
+- [x] Nix-ify dotfiles
 - [ ] Finish PhD
 
 ---
