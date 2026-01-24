@@ -13,7 +13,7 @@ Links: **[Blog](https://arthichaud.xyz) • [CV](https://github.com/Arthi-chaud/
 ## Star projects
 
 - 💿 [Meelo](https://github.com/Arthi-chaud/Meelo) - Self-hosted Music Server, designed for music collectors
-- 🎮 [FuNes](https://github.com/Arthi-chaud/Meelo) - NES emulator written in Haskell
+- 🎮 [FuNes](https://github.com/Arthi-chaud/Funes) - NES emulator written in Haskell
 - 🔧 [Seminal](https://github.com/Arthi-chaud/seminal-haskell) - A better type-error message generator for Haskell (Master's Project at UKC)
 
 ## Skill set
